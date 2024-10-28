@@ -1,0 +1,7 @@
+openapi: 3.0.3
+info:
+  title: DJ-Chat API
+  version: 1.0.0
+  description: A Real-Time Messaging API for Enhanced Communication and Collaboration
+paths: {}
+components: {}
